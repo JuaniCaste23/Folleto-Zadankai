@@ -1,0 +1,64 @@
+body {
+    background-color: #d4c3c3;
+}
+
+main{
+    background: url("sutra-del-loto.jpeg") no-repeat center;
+    background-size: 100%;
+    margin: auto;
+    padding: auto;
+    width: 700px;
+    height: 700px;
+    border: 12px outset rgb(76, 56, 133);
+}
+
+h1{
+    font-family: italic;
+    color: rgb(43, 43, 88);
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+    text-shadow: -3px 2px 1px rgb(114, 114, 216);
+}
+
+h2{
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+    color:rgb(39, 33, 109);
+    bottom: 30px;
+}
+
+p{
+    position: relative;
+    top: 250px;
+    font-size: 21px;
+    text-align: center;
+    padding: 10%;
+    color:rgb(44, 44, 121);
+    font-weight: bold;
+    text-shadow: -2px 2px 6px rgb(56, 56, 131);
+}
+
+span{
+    color:rgb(16, 15, 26);
+}
+
+.autor{
+    margin-left:300px;
+    bottom: 20px;
+    font-size: 14px;
+    position: relative;
+}
+
+footer{
+    position: relative;
+    top: 220px;
+    text-align: center;
+    font-size: 22px;
+    padding: 0px;
+    font-weight: bold;
+    color:rgb(47, 45, 65);
+}
